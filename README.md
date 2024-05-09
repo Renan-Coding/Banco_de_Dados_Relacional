@@ -1,4 +1,4 @@
-## Documentação Simplificada do Modelo Relacional
+## Documentação do Modelo Relacional
 
 **Projeto:** Abandono Zero
 
