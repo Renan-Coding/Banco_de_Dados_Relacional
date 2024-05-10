@@ -17,7 +17,7 @@
   - `admin` (BINARY): Indica se o usuário é um administrador.
 
 - **Informações dos Usuários** (`users_infos`): Detalhes sobre os usuários.
-  - `id` (INTEGER)`: Identificador único das informações do usuário.
+  - `id` (INTEGER): Identificador único das informações do usuário.
   - `name` (VARCHAR): Nome do usuário.
   - `birth_date` (DATE): Data de nascimento do usuário.
   - `registration_site_date` (DATE): Data de registro no site.
